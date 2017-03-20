@@ -28,8 +28,12 @@ back pressure, but if you must
 
 * use [pull-defer](https://github.com/pull-stream/pull-defer)
 
-# can I concat two pull-streams
+## can I concat two pull-streams
 
 yes.
 
 * use [pull-cat](https://github.com/pull-stream/pull-cat)
+
+## How do I fork a pull-stream? 
+
+eg: if there's an error, I want to stream to `stderr`, otherwise stream to `stdout`
