@@ -27,6 +27,7 @@ back pressure, but if you must
 ## I need to return a stream immediately, but need to do something async first, how?
 
 * use [pull-defer](https://github.com/pull-stream/pull-defer)
+* or [pull-cont](https://github.com/dominictarr/pull-cont)
 
 ## can I concat two pull-streams
 
