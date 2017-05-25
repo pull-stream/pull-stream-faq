@@ -5,6 +5,7 @@
 
 * use `pull(pull.map(mapToArray), pull.flatten())`
 * use [pull-through](https://github.com/pull-stream/pull-through)
+* use [pull-flatmap](https://github.com/pull-stream/pull-flatmap)
 
 ## how do I interop with node streams? are there any caveats?
 
